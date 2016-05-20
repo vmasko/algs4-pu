@@ -1,4 +1,4 @@
-class WeightedQuickUnion
+class WQuickUnion
   attr_accessor :id, :sz
 
   def initialize(n)
